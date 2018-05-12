@@ -1,0 +1,33 @@
+_repo: Dictionnaire-des-calembours-et-des-jeux-de-mots-lazzis-coqs---l--ne-quolibets-quiproquos-amph__29169
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gratet-Duplessis, Pierre-Alexandre
+    birthdate: 1792
+    deathdate: 1853
+    gutenberg_agent_id: '33737'
+    url: http://www.gutenberg.org/2009/agents/33737
+  - agent_name: Passard, François Lubin
+    birthdate: 1817
+    gutenberg_agent_id: '33736'
+    url: http://www.gutenberg.org/2009/agents/33736
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29169'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Puns and punning'
+- !lcsh 'French wit and humor'
+title: Dictionnaire des calembours et des jeux de mots, lazzis, coqs-à-l'âne, quolibets,
+  quiproquos, amphigouris, etc.
+url: http://www.gutenberg.org/ebooks/29169
